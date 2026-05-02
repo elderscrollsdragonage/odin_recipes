@@ -1,0 +1,58 @@
+body {
+  background-color: #65696C;
+  font-family: 'Courier New', Courier, monospace;
+}
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #FEE7A5;
+}
+
+a:visited {
+  color: red;
+}
+
+/* Top Navigation Bar */
+
+.topnav {
+  background-color: #31303D;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.topnav li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.topnav ul {
+  text-align: center;
+}
+
+/* Headers */
+h1,
+h2 {
+  text-align: center;
+}
+
+/* Cards */
+.card {
+  background-color: #475874;
+  color: white;
+  padding: 4px 0 20px 20px;
+  margin: 20px 10px 10px 10px;
+}
+
+/* Images */
+.darksouls {
+  width: 300px;
+}
+
+.dao,
+.sims2,
+.morrowind {
+  width: 265px;
+}
